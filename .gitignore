@@ -1,0 +1,14 @@
+# Entornos virtuales
+dca/
+venv/
+
+# Archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Configuración del sistema
+.DS_Store
